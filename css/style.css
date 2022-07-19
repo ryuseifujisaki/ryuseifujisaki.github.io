@@ -392,3 +392,8 @@ sm {
   font-weight: 600;
   margin: 15px 0;
 }
+
+.img{
+  width: 40px;
+  height: 40px;
+}

@@ -394,6 +394,11 @@ sm {
 }
 
 .img{
-  width: 40px;
+  width: 60px;
   height: 40px;
+}
+
+.slef_img {
+  width: 40%;
+  height: 40%;
 }
